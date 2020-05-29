@@ -7,11 +7,11 @@ Schematic like it was made by me.
 ## Photos
 ### “Pcb pics”
 ![Top]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/Top.JPG)
-### “Photo photo 1 title”
+### “Bottom Pcb”
 ![Photo 1]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/351.jpg)
-### “Photo photo 2 title”
+### “Top Pcb”
 ![Photo 2]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/417.jpg)
-### “Photo photo 3 title”
+### “Bottom Pcb Finish”
 ![Photo 3]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/906.jpg)
-### “Photo photo 4 title”
+### “Top Pcb Finish”
 ![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949.jpg)
