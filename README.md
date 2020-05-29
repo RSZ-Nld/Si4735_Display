@@ -15,3 +15,6 @@ Schematic like it was made by me.
 ![Photo 3]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/906.jpg)
 ### “Top Pcb Finish”
 ![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949.jpg)
+
+
+A video of the radio:  https://youtu.be/0avQV0qei24
