@@ -4,7 +4,9 @@ This project is based on Gert’s [SI4735-Radio-ESP32-2.8 inch TFT Touchscreen-A
 ## Schematic
 Schematic was made by me.
 ![Schematic]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/Si4735_ESP32_Radio.JPG)
-## Photos
+### Partslist
+![Partslist]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/PartsList Si4735 with Touch screen.pdf)
+### Photos
 ### “Pcb bottom components”
 ![Top]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/Top.JPG)
 ### “Bottom Pcb”
