@@ -16,6 +16,6 @@ Schematic was made by me.
 ### “Top Pcb Finish”
 ![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949.jpg)
 
-4735_Display.zip Are the Gerber files for the pcb.
+4735_Display.zip or Gerber.zip Are the Gerber files for the pcb.
 
 Video of the radio:  https://youtu.be/0avQV0qei24
