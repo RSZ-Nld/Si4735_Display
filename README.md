@@ -18,7 +18,7 @@ Schematic was made by me.
 ### “Bottom Pcb Finish”
 ![Photo 3]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/906.jpg)
 ### “Top Pcb Finish”
-![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949.jpg)
+![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949-2.jpg)
 
 4735_Display.zip or Gerber.zip Are the Gerber files for the pcb.
 
