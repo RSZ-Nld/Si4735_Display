@@ -1,7 +1,10 @@
-SW MW LW and FM Radio 
+SW MW LW and FM Radio  V4.13 
 ## About the original project
-This project is based on Gert’s [SI4735-Radio-ESP32-2.8 inch TFT Touchscreen-Arduino]
-( https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino?fbclid=IwAR3TQd2j4HxAFvpcGkbXiPuDly8m2OnGclTDiqthnkbqqe2fN1McP2m3WSI).
+This project is based on 
+Use ESP32 arduino Boards and 2.8 TFT display touchscreen TFT_eSPI Ili9341, and also version for 3.5
+Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2CLR Ricardo for Si4735 library and SSB patch,
+Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
+Mod. V. 5.2a made by me IU4ALH Antonino
 
 ![Photo 22]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/20230201_104552.jpg)
 
