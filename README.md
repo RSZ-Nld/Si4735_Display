@@ -18,8 +18,12 @@ Schematic was made by me.
 ### “Bottom Pcb Finish”
 ![Photo 3]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/906.jpg)
 ### “Top Pcb Finish”
-![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949-2.jpg)
-![Bin File V3.5] (https://github.com/RSZ-Nld/Si4735_Display/blob/master/SI4735_2.8_TFT_SI5351_V3.5.ino.esp32.rar)
+![Photo 4]
+( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949-2.jpg)
+
+![Flash file, click on Flash.bat and give the com port] 
+
+(https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar)
 
 
 4735_Display.zip or Gerber.zip Are the Gerber files for the pcb.
