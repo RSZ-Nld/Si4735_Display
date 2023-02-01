@@ -1,6 +1,11 @@
-SW MW LW and FM Radio with touchscreen
+SW MW LW and FM Radio 
 ## About the original project
-This project is based on Gert’s [SI4735-Radio-ESP32-2.8 inch TFT Touchscreen-Arduino]( https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino?fbclid=IwAR3TQd2j4HxAFvpcGkbXiPuDly8m2OnGclTDiqthnkbqqe2fN1McP2m3WSI).
+This project is based on Gert’s [SI4735-Radio-ESP32-2.8 inch TFT Touchscreen-Arduino]
+( https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino?fbclid=IwAR3TQd2j4HxAFvpcGkbXiPuDly8m2OnGclTDiqthnkbqqe2fN1McP2m3WSI).
+
+![Photo 22]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/20230201_104552.jpg)
+
+![Photo 23]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/20230201_105129.jpg)
 
 Works on 6 till 8 V max!! But 6V is beter, or you need to cool the LM1117 5V!
 ## Schematic
