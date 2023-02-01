@@ -18,8 +18,9 @@ Schematic was made by me.
 ### “Bottom Pcb Finish”
 ![Photo 3]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/906.jpg)
 ### “Top Pcb Finish”
-![Photo 4]
-( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949-2.jpg)
+
+Finish:
+https://github.com/RSZ-Nld/Si4735_Display/blob/master/949-2.jpg
 
 Flash Program:
 
