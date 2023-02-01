@@ -30,11 +30,13 @@ Finish:
 
 Flash Program:
 
-
-
 How to flash, open flash.bat and enter gives the comm port then enter and it will flash:
 
 https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar
+
+or older bin file :
+
+https://github.com/RSZ-Nld/Si4735_Display/blob/master/SI4735_2.8_TFT_SI5351_V3.5.ino.esp32.rar
 
 
 Gerbers are here:
