@@ -21,9 +21,13 @@ Schematic was made by me.
 ![Photo 4]
 ( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949-2.jpg)
 
-![Flash file, click on Flash.bat and give the com port] 
+Flash Program:
 
-(https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar)
+
+
+How to flash, open flash.bat and enter gives the comm port then enter and it will flash:
+
+https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar
 
 
 4735_Display.zip or Gerber.zip Are the Gerber files for the pcb.
