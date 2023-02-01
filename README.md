@@ -37,6 +37,7 @@ How to flash, open flash.bat and enter gives the comm port then enter and it wil
 https://github.com/RSZ-Nld/Si4735_Display/blob/master/Esp32-V4.13.rar
 
 
-4735_Display.zip or Gerber.zip Are the Gerber files for the pcb.
+Gerbers are here:
+https://github.com/RSZ-Nld/Si4735_Display/blob/master/Gerber.zip
 
 Video of the radio:  https://youtu.be/0avQV0qei24
